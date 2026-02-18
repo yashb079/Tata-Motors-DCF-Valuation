@@ -10,35 +10,35 @@ The objective was to estimate intrinsic value and evaluate investment potential 
 
 🔍 Project Overview
 
-Analyzed 5-year financial statements
+- Analyzed 5-year financial statements
 
-Forecasted revenue, EBIT and net income
+- Forecasted revenue, EBIT and net income
 
-Estimated free cash flow (FCF)
+- Estimated free cash flow (FCF)
 
-Applied DCF valuation method
+- Applied DCF valuation method
 
-Calculated intrinsic share value
+- Calculated intrinsic share value
 
-Compared intrinsic value with market price
+- Compared intrinsic value with market price
 
 🛠 Tools Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Financial modeling techniques
+- Financial modeling techniques
 
-Forecasting & valuation methods
+- Forecasting & valuation methods
 
 📁 Files Included
 
-Excel financial model
+- Excel financial model
 
-Valuation presentation (PPT)
+- Valuation presentation (PPT)
 
 🎯 Key Skills Demonstrated
 
-Financial modeling
-DCF valuation
-Equity research
-Financial statement analysis
+- Financial modeling
+- DCF valuation
+- Equity research
+- Financial statement analysis
