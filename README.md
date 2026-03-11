@@ -1,13 +1,9 @@
-# Equity Valuation — Tata Motors 
+ # Equity Valuation — Tata Motors | DCF & 3-Statement Model
 
-Built a fully integrated 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) for Tata Motors using 5 years of historical data to forecast FY2025–27 performance and derive an intrinsic valuation.
+- Constructed a fully integrated 3-statement model anchored on 5 years of historical financials to project revenue, EBIT margins, and free cash flows through FY2027
 
-- Projected revenue growth, EBIT margins, working capital, and capex to derive free cash flows
+- Valued the firm via DCF using a 10% discount rate and 4% terminal growth rate, deriving an intrinsic value of INR 330/share against a market price of INR 382
 
-- Applied a DCF framework using a **10% discount rate** and **4% terminal growth rate**
-
-- Derived intrinsic value of **INR 330/share** vs. market price of **INR 382** (~14% overvalued) — issued a **SELL recommendation**
-
-- Supported findings with sensitivity analysis on revenue growth and terminal value assumptions
+- Issued a SELL recommendation supported by sensitivity analysis across key assumptions including revenue growth and terminal value
 
 **Skills:** Financial Modeling · DCF Valuation · Equity Research · Sensitivity Analysis · Excel
