@@ -1,17 +1,13 @@
-# DCF & 3-Statement Financial Model — Equity Valuation & SELL Recommendation
+**Equity Valuation — Tata Motors **
 
-Built a fully integrated 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) to value an equity using 5 years of historical data as the foundation for a 3-year forward forecast (FY2025–27).
+Built a fully integrated 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) for Tata Motors using 5 years of historical data to forecast FY2025–27 performance and derive an intrinsic valuation.
 
-Key highlights:
+- Projected revenue growth, EBIT margins, working capital, and capex to derive free cash flows
 
-- Projected revenue growth, EBIT margins, working capital, and capex to derive unlevered free cash flows
+- Applied a DCF framework using a **10% discount rate** and **4% terminal growth rate**
 
-- Applied a DCF framework using a 10% WACC and 4% terminal growth rate (Gordon Growth)
+- Derived intrinsic value of **INR 330/share** vs. market price of **INR 382** (~14% overvalued) — issued a **SELL recommendation**
 
-- Derived an intrinsic value of INR 330/share vs. a market price of INR 382 — a ~14% premium to fair value
+- Supported findings with sensitivity analysis on revenue growth and terminal value assumptions
 
-- Issued a SELL recommendation backed by sensitivity analysis across revenue growth rates and terminal value assumptions
-
-- Model built in Excel with clearly structured assumption drivers, output schedules, and a valuation summary dashboard
-
-Skills demonstrated: Financial statement analysis · DCF valuation · Sensitivity/scenario analysis · Equity research · Excel modeling
+**Skills:** Financial Modeling · DCF Valuation · Equity Research · Sensitivity Analysis · Excel
