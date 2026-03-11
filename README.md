@@ -1,44 +1,17 @@
-# Tata-Motors-DCF-Valuation
-Built a complete DCF valuation model for Tata Motors including financial forecasting, free cash flow estimation and intrinsic value calculation. Demonstrates practical application of financial modeling and equity valuation techniques used in investment banking.
+# DCF & 3-Statement Financial Model — Equity Valuation & SELL Recommendation
 
-📊 DCF Valuation — Tata Motors
+Built a fully integrated 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) to value an equity using 5 years of historical data as the foundation for a 3-year forward forecast (FY2025–27).
 
-Author: Yash Bagul
+Key highlights:
 
-This project presents a complete Discounted Cash Flow (DCF) valuation of Tata Motors using historical financial data and future financial projections.
-The objective was to estimate intrinsic value and evaluate investment potential using fundamental valuation techniques.
+- Projected revenue growth, EBIT margins, working capital, and capex to derive unlevered free cash flows
 
-🔍 Project Overview
+- Applied a DCF framework using a 10% WACC and 4% terminal growth rate (Gordon Growth)
 
-- Analyzed 5-year financial statements
+- Derived an intrinsic value of INR 330/share vs. a market price of INR 382 — a ~14% premium to fair value
 
-- Forecasted revenue, EBIT and net income
+- Issued a SELL recommendation backed by sensitivity analysis across revenue growth rates and terminal value assumptions
 
-- Estimated free cash flow (FCF)
+- Model built in Excel with clearly structured assumption drivers, output schedules, and a valuation summary dashboard
 
-- Applied DCF valuation method
-
-- Calculated intrinsic share value
-
-- Compared intrinsic value with market price
-
-🛠 Tools Used
-
-- Microsoft Excel
-
-- Financial modeling techniques
-
-- Forecasting & valuation methods
-
-📁 Files Included
-
-- Excel financial model
-
-- Valuation presentation (PPT)
-
-🎯 Key Skills Demonstrated
-
-- Financial modeling
-- DCF valuation
-- Equity research
-- Financial statement analysis
+Skills demonstrated: Financial statement analysis · DCF valuation · Sensitivity/scenario analysis · Equity research · Excel modeling
