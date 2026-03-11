@@ -1,4 +1,4 @@
-**Equity Valuation — Tata Motors **
+# Equity Valuation — Tata Motors 
 
 Built a fully integrated 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) for Tata Motors using 5 years of historical data to forecast FY2025–27 performance and derive an intrinsic valuation.
 
